@@ -1,0 +1,21 @@
+{
+    "bitwise": true,
+    "curly": true,
+    "eqeqeq": true,
+    "freeze": true,
+    "latedef": "nofunc",
+    "maxparams": 5,
+    "maxdepth": 5,
+    "maxstatements": 20,
+    "undef": true,
+    "unused": true,
+    "nonbsp": true,
+    "browser": true,
+    "devel": true,
+    "node": true,
+    "jquery": true,
+
+    "globals" :  {
+    }
+}
+
