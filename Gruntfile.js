@@ -9,7 +9,7 @@ module.exports = function(grunt) {
                     optimization: 2
                 },
                 files: {
-                    'public/css/overheroes.css': 'src/less/main.less'
+                    'public/css/main.css': 'src/less/main.less'
                 }
             }
         },
